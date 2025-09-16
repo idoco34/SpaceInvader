@@ -8,6 +8,13 @@ Java
 
 BlueJ
 
+## How to run the game
+
+1) Install BlueJ and run it
+2) Open the SpaceInvader folder in BlueJ
+3) Compile
+4) Run the SpaceInvader Class
+
 ## Description
 
 The Space Invaders game is a classic arcade-style shooter built for single-player action. The game features a player-controlled laser cannon at the bottom of the screen, which can move horizontally. The objective is to destroy all the descending rows of aliens before they reach the bottom of the screen.
