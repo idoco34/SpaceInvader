@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Bullet
+comment1.params=x\ y\ width\ height\ speed\ c
+comment1.target=Bullet(int,\ int,\ int,\ int,\ int,\ java.awt.Color)
+comment10.params=
+comment10.target=int\ getPierce()
+comment11.params=
+comment11.target=boolean\ isOffScreen()
+comment2.params=
+comment2.target=void\ move()
+comment3.params=g
+comment3.target=void\ draw(java.awt.Graphics)
+comment4.params=c
+comment4.target=void\ setColor(java.awt.Color)
+comment5.params=speed
+comment5.target=void\ setSpeed(int)
+comment6.params=pierce
+comment6.target=void\ setPierce(int)
+comment7.params=
+comment7.target=java.awt.Rectangle\ getBounds()
+comment8.params=
+comment8.target=int\ getX()
+comment9.params=
+comment9.target=int\ getY()
+numComments=12

@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=PlayerBullet
+comment1.params=x\ y\ speed\ pierce
+comment1.target=PlayerBullet(int,\ int,\ int,\ int)
+comment2.params=
+comment2.target=void\ move()
+comment3.params=g
+comment3.target=void\ draw(java.awt.Graphics)
+comment4.params=pierce
+comment4.target=void\ setPierce(int)
+comment5.params=c
+comment5.target=void\ setColor(java.awt.Color)
+comment6.params=
+comment6.target=java.awt.Rectangle\ getBounds()
+comment7.params=
+comment7.target=int\ getY()
+comment8.params=
+comment8.target=int\ getPierce()
+comment9.params=
+comment9.target=boolean\ isOffScreen()
+numComments=10
