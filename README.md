@@ -1,10 +1,12 @@
 # SpaceInvader
 
 ## Language
+
 Java
 
 ## IDE
-Bluejay
+
+BlueJ
 
 ## Description
 
@@ -28,3 +30,4 @@ Scoring: Points are awarded for each alien destroyed, with different types of al
 Difficulty: As the number of aliens decreases, the remaining aliens speed up, increasing the game's difficulty.
 
 UFO: A flying saucer occasionally appears at the top of the screen, offering a high-score bonus if shot down.
+
