@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=AlienBl
+comment1.params=x\ y
+comment1.target=AlienBl(int,\ int)
+comment2.params=speed\ max
+comment2.target=void\ move(double,\ int)
+comment3.params=
+comment3.target=void\ moveDown()
+comment4.params=g
+comment4.target=void\ draw(java.awt.Graphics)
+comment5.params=
+comment5.target=java.awt.Rectangle\ getBounds()
+comment6.params=
+comment6.target=int\ getX()
+comment7.params=
+comment7.target=int\ getY()
+comment8.params=
+comment8.target=int\ getScore()
+numComments=9
